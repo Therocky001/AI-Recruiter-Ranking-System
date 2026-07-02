@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.npy
+cached_candidates.json
+~$*.xlsx
+.env
+candidates.jsonl
