@@ -1,0 +1,81 @@
+# Redrob Hackathon — Submission Metadata
+
+team_name: "ai-recruiter-hybrid"  # Used in leaderboard and announcements
+
+primary_contact:
+  name: "Full Name"                    # TODO: fill in your name
+  email: "primary@example.com"         # TODO: fill in your email
+  phone: "+91-XXXXXXXXXX"              # TODO: fill in your phone
+
+team_members:
+  - name: "Member 1 Full Name"         # TODO: fill in
+    email: "member1@example.com"       # TODO: fill in
+    role: "ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/YOUR_USERNAME/ai-recruiter"   # TODO: fill in
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"  # TODO: fill in
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+# Runs end-to-end in ~4 minutes on CPU with 16GB RAM; no network access required.
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Local Windows Machine"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11"
+  os: "Windows 11"
+  uses_gpu_for_inference: false          # CPU-only; sentence-transformers runs on CPU
+  has_network_during_ranking: false      # Fully offline — no API calls, no downloads during ranking
+  pre_computation_required: false        # Model weights auto-downloaded on first run (cached locally)
+  pre_computation_time_minutes: 0
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Antigravity (Google DeepMind)"     # AI pair programming assistant for architecture + code
+
+ai_usage_summary: |
+  Used Antigravity (Google DeepMind's AI coding assistant) for architecture design,
+  iterative code review, and implementation of the pipeline modules (schema.py, extract.py,
+  embed.py, rank.py). No candidate data was fed to any LLM. All ranking is performed
+  fully offline using local sentence-transformers embeddings and deterministic rule-based
+  signal scoring.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  Hybrid offline ranker: sentence-transformers (all-MiniLM-L6-v2) embedding similarity
+  combined with deterministic rule-based scoring across 23 Redrob behavioral signals.
+
+  Composite score = (Embedding Similarity × 0.5) + (Skill Assessment × 0.2) +
+                    (Engagement Signals × 0.2) + (Availability/Trust × 0.1)
+
+  All components are then multiplied by a cumulative behavioral_penalty (range 0.05–1.0)
+  derived from a 9-filter penalty chain. Penalties are multiplicative (not additive) so
+  a single disqualifying signal (e.g., <3yrs experience) cannot be overridden by a high
+  skill score. Penalty filters include: experience band gates, WITCH-only career history,
+  pure academic background, job-hopping pattern, title inflation, behavioral downweighting
+  for inactive candidates, hedging language in descriptions, and absence of production
+  IR/vector DB evidence (Pinecone/FAISS/Elasticsearch/NDCG/MRR).
+
+  Candidate embeddings prioritize role history + project descriptions over raw skills list
+  to reward semantic evidence of production work and penalize keyword stuffing.
+  Runtime: ~4 minutes for 100K candidates on CPU.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: false
+  reproduction_tested: true

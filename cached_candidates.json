@@ -1,0 +1,3089 @@
+[
+  {
+    "candidate_id": "CAND_0000001",
+    "name": "Ira Vora",
+    "total_years_exp": 6.9,
+    "core_skills": [
+      "Tailwind",
+      "NLP",
+      "Image Classification",
+      "Fine-tuning LLMs",
+      "Weights & Biases",
+      "Speech Recognition",
+      "Photoshop",
+      "TTS",
+      "LoRA",
+      "Apache Beam",
+      "AWS",
+      "Flask",
+      "BentoML",
+      "Milvus",
+      "GANs",
+      "Statistical Modeling",
+      "GCP"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products"
+    ],
+    "past_roles": [
+      {
+        "title": "Backend Engineer",
+        "company": "Mindtree",
+        "description": "Implemented streaming data pipelines on Kafka and Spark Streaming for a real-time user-activity processing platform. Designed the schema-registry integration, the watermark/state management approach, and the deduplication logic for late-arriving events. Worked closely with the data science team to make sure feature pipelines aligned with what their models needed. Most of my career has been data engineering, with some adjacent ML exposure."
+      },
+      {
+        "title": "Analytics Engineer",
+        "company": "Dunder Mifflin",
+        "description": "Built and maintained data pipelines on Apache Airflow processing ~500GB of daily transactional data across 12 source systems. Worked extensively with Spark (PySpark) for batch processing and dbt for the transformation/modeling layer in our Snowflake warehouse. Owned the on-call rotation for data quality issues \u2014 wrote most of the data quality checks that detect schema drift and unusual volume changes. The pipeline supports the analytics team and a few internal ML models."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 86.9,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 23.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.34,
+      "avg_response_time_hours": 177.8,
+      "connection_count": 356.0,
+      "endorsements_received": 35.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 9.2,
+      "search_appearance_30d": 249.0,
+      "saved_by_recruiters_30d": 4.0,
+      "interview_completion_rate": 0.71,
+      "offer_acceptance_rate": 0.58,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Computer Science from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000002",
+    "name": "Saanvi Sethi",
+    "total_years_exp": 12.5,
+    "core_skills": [
+      "Project Management",
+      "React",
+      "Photoshop",
+      "TypeScript",
+      "Marketing",
+      "Kafka",
+      "JavaScript",
+      "Feature Engineering",
+      "GCP"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Operations Manager",
+        "company": "Wipro",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Wipro",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Acme Corp",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Dunder Mifflin",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 78.7,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 7.0,
+      "applications_submitted_30d": 1.0,
+      "recruiter_response_rate": 0.29,
+      "avg_response_time_hours": 171.6,
+      "connection_count": 179.0,
+      "endorsements_received": 3.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 107.0,
+      "saved_by_recruiters_30d": 10.0,
+      "interview_completion_rate": 0.62,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Sc in Mathematics from Local Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000003",
+    "name": "Yash Agarwal",
+    "total_years_exp": 1.1,
+    "core_skills": [
+      "Angular",
+      "SEO",
+      "Excel",
+      "Accounting",
+      "Kubernetes",
+      "Databricks"
+    ],
+    "domains": [
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "Customer Support",
+        "company": "TCS",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 31.9,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 1.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.46,
+      "avg_response_time_hours": 119.4,
+      "connection_count": 19.0,
+      "endorsements_received": 46.0,
+      "notice_period_days": 150.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 28.0,
+      "saved_by_recruiters_30d": 4.0,
+      "interview_completion_rate": 0.86,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.E. in Chemical Engineering from Local Engineering College",
+      "M.Sc in Information Technology from Chandigarh University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000004",
+    "name": "Anil Bose",
+    "total_years_exp": 3.8,
+    "core_skills": [
+      "Node.js",
+      "Content Writing",
+      "Redux",
+      "Airflow",
+      "GraphQL",
+      "Object Detection",
+      "Webpack",
+      "Six Sigma",
+      "SAP",
+      "JavaScript"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Marketing Manager",
+        "company": "Dunder Mifflin",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Infosys",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Globex Inc",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 28.5,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 3.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.26,
+      "avg_response_time_hours": 104.1,
+      "connection_count": 485.0,
+      "endorsements_received": 22.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 5.0,
+      "saved_by_recruiters_30d": 8.0,
+      "interview_completion_rate": 0.35,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.Tech in Machine Learning from Local Engineering College",
+      "Ph.D in Electronics from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000005",
+    "name": "Aisha Sethi",
+    "total_years_exp": 11.0,
+    "core_skills": [
+      "SQL",
+      "PowerPoint",
+      "Photoshop",
+      "Tailwind",
+      "Apache Flink",
+      "Image Classification"
+    ],
+    "domains": [
+      "Software",
+      "IT Services",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Accountant",
+        "company": "Stark Industries",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "HR Manager",
+        "company": "Wipro",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "HR Manager",
+        "company": "Initech",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Accountant",
+        "company": "TCS",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 84.6,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 12.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.37,
+      "avg_response_time_hours": 116.7,
+      "connection_count": 300.0,
+      "endorsements_received": 14.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 67.0,
+      "saved_by_recruiters_30d": 1.0,
+      "interview_completion_rate": 0.74,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.Sc in Information Technology from Chandigarh University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000006",
+    "name": "Rajesh Desai",
+    "total_years_exp": 6.0,
+    "core_skills": [
+      "Content Writing",
+      "SEO",
+      "Redux",
+      "SQL",
+      "Sales",
+      "gRPC",
+      "Django",
+      "Terraform"
+    ],
+    "domains": [
+      "Software",
+      "Conglomerate"
+    ],
+    "past_roles": [
+      {
+        "title": "Business Analyst",
+        "company": "Wayne Enterprises",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Pied Piper",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 29.7,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 53.0,
+      "applications_submitted_30d": 8.0,
+      "recruiter_response_rate": 0.12,
+      "avg_response_time_hours": 172.1,
+      "connection_count": 389.0,
+      "endorsements_received": 29.0,
+      "notice_period_days": 150.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 131.0,
+      "saved_by_recruiters_30d": 9.0,
+      "interview_completion_rate": 0.57,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Sc in Artificial Intelligence from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000007",
+    "name": "Vihaan Bose",
+    "total_years_exp": 5.5,
+    "core_skills": [
+      "Content Writing",
+      "MongoDB",
+      "Sales",
+      "Spark",
+      "Scrum",
+      "Apache Beam",
+      "Illustrator"
+    ],
+    "domains": [
+      "IT Services",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Civil Engineer",
+        "company": "Wipro",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Initech",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 74.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 2.0,
+      "applications_submitted_30d": 1.0,
+      "recruiter_response_rate": 0.62,
+      "avg_response_time_hours": 61.3,
+      "connection_count": 122.0,
+      "endorsements_received": 50.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 104.0,
+      "saved_by_recruiters_30d": 8.0,
+      "interview_completion_rate": 0.47,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.E. in Data Science from SRM University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000008",
+    "name": "Shaurya Chatterjee",
+    "total_years_exp": 3.6,
+    "core_skills": [
+      "Java",
+      "BigQuery",
+      "Spark",
+      "Accounting",
+      "Kubernetes",
+      "TypeScript",
+      "Rust",
+      "HTML"
+    ],
+    "domains": [
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "Operations Manager",
+        "company": "Wipro",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 63.0,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 28.0,
+      "applications_submitted_30d": 5.0,
+      "recruiter_response_rate": 0.42,
+      "avg_response_time_hours": 98.4,
+      "connection_count": 285.0,
+      "endorsements_received": 7.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 91.0,
+      "saved_by_recruiters_30d": 0.0,
+      "interview_completion_rate": 0.74,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Tech in Data Science from Anna University",
+      "M.Sc in Computer Engineering from SRM University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000009",
+    "name": "Amit Shah",
+    "total_years_exp": 11.0,
+    "core_skills": [
+      "Snowflake",
+      "gRPC",
+      "JavaScript",
+      "OpenCV",
+      "Go",
+      "PowerPoint"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Mechanical Engineer",
+        "company": "Dunder Mifflin",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Wipro",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Customer Support",
+        "company": "Stark Industries",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Project Manager",
+        "company": "Acme Corp",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 39.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 50.0,
+      "applications_submitted_30d": 8.0,
+      "recruiter_response_rate": 0.53,
+      "avg_response_time_hours": 202.0,
+      "connection_count": 516.0,
+      "endorsements_received": 34.0,
+      "notice_period_days": 150.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 74.0,
+      "saved_by_recruiters_30d": 1.0,
+      "interview_completion_rate": 0.54,
+      "offer_acceptance_rate": 0.48,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Tech in Electronics from KIIT University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000010",
+    "name": "Aarav Kapoor",
+    "total_years_exp": 4.6,
+    "core_skills": [
+      "GCP",
+      "Spring Boot",
+      "Kubeflow",
+      "Java",
+      "GANs",
+      "Figma",
+      "Elasticsearch",
+      "OpenCV",
+      "CNN",
+      "Azure",
+      "Prompt Engineering",
+      "Object Detection",
+      "MLOps",
+      "Python",
+      "BM25",
+      "Weights & Biases",
+      "Sales"
+    ],
+    "domains": [
+      "Transportation"
+    ],
+    "past_roles": [
+      {
+        "title": "Data Engineer",
+        "company": "Ola",
+        "description": "Mixed data science and analytics-engineering role at a marketing-analytics startup. Spent maybe 30% of my time on lightweight ML (clustering, classification, churn prediction in sklearn/XGBoost) and 70% on data infrastructure and dashboards. Comfortable with the modeling work but I wouldn't call myself an ML specialist. Built our experimentation framework that supports the product team's A/B tests."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 81.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 60.0,
+      "applications_submitted_30d": 13.0,
+      "recruiter_response_rate": 0.4,
+      "avg_response_time_hours": 19.0,
+      "connection_count": 712.0,
+      "endorsements_received": 38.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 33.7,
+      "search_appearance_30d": 256.0,
+      "saved_by_recruiters_30d": 2.0,
+      "interview_completion_rate": 0.53,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Mathematics from Generic State University",
+      "M.S. in Computer Engineering from Local Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000011",
+    "name": "Deepak Desai",
+    "total_years_exp": 2.0,
+    "core_skills": [
+      "Recommendation Systems",
+      "Scrum",
+      "FastAPI",
+      "Hugging Face Transformers",
+      "AWS",
+      "Snowflake",
+      "Spring Boot",
+      "PostgreSQL",
+      "Kubeflow",
+      "Azure"
+    ],
+    "domains": [
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "QA Engineer",
+        "company": "Pied Piper",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      },
+      {
+        "title": "QA Engineer",
+        "company": "Hooli",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 59.2,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 112.0,
+      "applications_submitted_30d": 0.0,
+      "recruiter_response_rate": 0.56,
+      "avg_response_time_hours": 184.4,
+      "connection_count": 496.0,
+      "endorsements_received": 9.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 32.3,
+      "search_appearance_30d": 200.0,
+      "saved_by_recruiters_30d": 13.0,
+      "interview_completion_rate": 0.45,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.Tech in Data Science from Chandigarh University",
+      "B.Sc in Information Technology from Anna University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000012",
+    "name": "Anjali Krishnan",
+    "total_years_exp": 1.1,
+    "core_skills": [
+      "Azure",
+      "Airflow",
+      "AWS",
+      "gRPC",
+      "Vue.js",
+      "dbt",
+      "Agile",
+      "PowerPoint",
+      "Content Writing",
+      "Project Management"
+    ],
+    "domains": [
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Operations Manager",
+        "company": "Stark Industries",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 53.4,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 60.0,
+      "applications_submitted_30d": 1.0,
+      "recruiter_response_rate": 0.16,
+      "avg_response_time_hours": 38.4,
+      "connection_count": 165.0,
+      "endorsements_received": 31.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 61.0,
+      "saved_by_recruiters_30d": 3.0,
+      "interview_completion_rate": 0.42,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Sc in Physics from Symbiosis International",
+      "B.Sc in Mechanical Engineering from Christ University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000013",
+    "name": "Pari Nair",
+    "total_years_exp": 1.1,
+    "core_skills": [
+      "React",
+      "Redux",
+      "Vue.js",
+      "Six Sigma",
+      "Spring Boot",
+      "Spark",
+      "Data Pipelines",
+      "GCP",
+      "Flask",
+      "Snowflake"
+    ],
+    "domains": [
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Civil Engineer",
+        "company": "Globex Inc",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 44.2,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 16.0,
+      "applications_submitted_30d": 3.0,
+      "recruiter_response_rate": 0.28,
+      "avg_response_time_hours": 80.3,
+      "connection_count": 281.0,
+      "endorsements_received": 9.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 35.6,
+      "search_appearance_30d": 40.0,
+      "saved_by_recruiters_30d": 12.0,
+      "interview_completion_rate": 0.33,
+      "offer_acceptance_rate": 0.26,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Information Technology from Delhi College of Engineering",
+      "Ph.D in Information Technology from Amity University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000014",
+    "name": "Atharv Joshi",
+    "total_years_exp": 8.4,
+    "core_skills": [
+      "FAISS",
+      "BigQuery",
+      "React",
+      "OpenSearch",
+      "OpenCV",
+      "YOLO",
+      "SAP",
+      "SEO",
+      "REST APIs",
+      "GANs",
+      "dbt",
+      "Photoshop",
+      "Tailwind"
+    ],
+    "domains": [
+      "Food Delivery",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Frontend Engineer",
+        "company": "Zomato",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Dunder Mifflin",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "title": "Java Developer",
+        "company": "Acme Corp",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 61.9,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 21.0,
+      "applications_submitted_30d": 1.0,
+      "recruiter_response_rate": 0.8,
+      "avg_response_time_hours": 7.7,
+      "connection_count": 708.0,
+      "endorsements_received": 63.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 12.0,
+      "saved_by_recruiters_30d": 0.0,
+      "interview_completion_rate": 0.55,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Statistics from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000015",
+    "name": "Rahul Agarwal",
+    "total_years_exp": 5.4,
+    "core_skills": [
+      "PyTorch",
+      "Content Writing",
+      "Weights & Biases",
+      "Qdrant",
+      "Sales",
+      "Figma",
+      "BigQuery",
+      "Computer Vision",
+      "Next.js",
+      "SEO"
+    ],
+    "domains": [
+      "Manufacturing",
+      "Fintech",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Software Engineer",
+        "company": "Razorpay",
+        "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+      },
+      {
+        "title": "Mobile Developer",
+        "company": "Hooli",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Globex Inc",
+        "description": "Java backend development at a large enterprise \u2014 Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 79.4,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 93.0,
+      "applications_submitted_30d": 3.0,
+      "recruiter_response_rate": 0.32,
+      "avg_response_time_hours": 117.7,
+      "connection_count": 361.0,
+      "endorsements_received": 61.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 164.0,
+      "saved_by_recruiters_30d": 8.0,
+      "interview_completion_rate": 0.72,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "Ph.D in Mathematics from Local Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000016",
+    "name": "Aanya Malhotra",
+    "total_years_exp": 5.3,
+    "core_skills": [
+      "Node.js",
+      "Figma",
+      "Data Pipelines",
+      "Go",
+      "Photoshop",
+      "Kubeflow",
+      "Accounting",
+      "SQL"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Accountant",
+        "company": "Infosys",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "TCS",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Globex Inc",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 69.4,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 76.0,
+      "applications_submitted_30d": 5.0,
+      "recruiter_response_rate": 0.64,
+      "avg_response_time_hours": 205.6,
+      "connection_count": 148.0,
+      "endorsements_received": 2.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 42.9,
+      "search_appearance_30d": 126.0,
+      "saved_by_recruiters_30d": 5.0,
+      "interview_completion_rate": 0.66,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.E. in Electronics from Christ University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000017",
+    "name": "Anil Pandey",
+    "total_years_exp": 12.3,
+    "core_skills": [
+      "Next.js",
+      "Java",
+      "Apache Flink",
+      "Sales",
+      "Tally",
+      "PostgreSQL",
+      "REST APIs",
+      "Hadoop"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Accountant",
+        "company": "Wipro",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Customer Support",
+        "company": "Infosys",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Initech",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "title": "Accountant",
+        "company": "Acme Corp",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 38.7,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 3.0,
+      "applications_submitted_30d": 4.0,
+      "recruiter_response_rate": 0.27,
+      "avg_response_time_hours": 197.4,
+      "connection_count": 35.0,
+      "endorsements_received": 23.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 110.0,
+      "saved_by_recruiters_30d": 2.0,
+      "interview_completion_rate": 0.32,
+      "offer_acceptance_rate": 0.17,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.Tech in Data Science from Tier-3 Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000018",
+    "name": "Vivaan Reddy",
+    "total_years_exp": 6.6,
+    "core_skills": [
+      "CNN",
+      "Java",
+      "Accounting",
+      "Data Pipelines",
+      "Node.js",
+      "Tailwind"
+    ],
+    "domains": [
+      "Software",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Frontend Engineer",
+        "company": "Acme Corp",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "title": "Frontend Engineer",
+        "company": "Pied Piper",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "Initech",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 34.8,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 88.0,
+      "applications_submitted_30d": 11.0,
+      "recruiter_response_rate": 0.16,
+      "avg_response_time_hours": 154.6,
+      "connection_count": 284.0,
+      "endorsements_received": 49.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 41.0,
+      "saved_by_recruiters_30d": 16.0,
+      "interview_completion_rate": 0.7,
+      "offer_acceptance_rate": 0.46,
+      "verified_email": 0.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "Ph.D in Computer Engineering from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000019",
+    "name": "Myra Mishra",
+    "total_years_exp": 6.5,
+    "core_skills": [
+      "Figma",
+      "GraphQL",
+      "Six Sigma",
+      "Scrum",
+      "YOLO",
+      "gRPC",
+      "AWS",
+      "Azure"
+    ],
+    "domains": [
+      "Software",
+      "Conglomerate"
+    ],
+    "past_roles": [
+      {
+        "title": "Project Manager",
+        "company": "Wayne Enterprises",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Wayne Enterprises",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Pied Piper",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 38.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 61.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.34,
+      "avg_response_time_hours": 100.0,
+      "connection_count": 593.0,
+      "endorsements_received": 25.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 141.0,
+      "saved_by_recruiters_30d": 0.0,
+      "interview_completion_rate": 0.31,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.Tech in Computer Science from IISc Bangalore",
+      "M.Tech in Machine Learning from IIT Guwahati"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000020",
+    "name": "Aditya Iyengar",
+    "total_years_exp": 6.3,
+    "core_skills": [
+      "GraphQL",
+      "TypeScript",
+      "Flask",
+      "Weights & Biases",
+      "GCP",
+      "Salesforce CRM",
+      "HTML"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Mechanical Engineer",
+        "company": "Wipro",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "Stark Industries",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Dunder Mifflin",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 73.0,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 38.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.55,
+      "avg_response_time_hours": 207.8,
+      "connection_count": 479.0,
+      "endorsements_received": 35.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 31.0,
+      "saved_by_recruiters_30d": 11.0,
+      "interview_completion_rate": 0.71,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.E. in Computer Science from IIT Kharagpur"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000021",
+    "name": "Rahul Joshi",
+    "total_years_exp": 14.5,
+    "core_skills": [
+      "Hadoop",
+      "PostgreSQL",
+      "Kafka",
+      "Microservices",
+      "AWS",
+      "TypeScript",
+      "ETL",
+      "Spring Boot",
+      "Recommendation Systems",
+      "Fine-tuning LLMs",
+      "Prompt Engineering",
+      "LangChain",
+      "Pinecone",
+      "Vector Search",
+      "Embeddings",
+      "FAISS"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Project Manager",
+        "company": "Wipro",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Infosys",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Sales Executive",
+        "company": "Stark Industries",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Customer Support",
+        "company": "Dunder Mifflin",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Project Manager",
+        "company": "Wipro",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Customer Support",
+        "company": "TCS",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 58.5,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 1.0,
+      "applications_submitted_30d": 8.0,
+      "recruiter_response_rate": 0.49,
+      "avg_response_time_hours": 98.7,
+      "connection_count": 52.0,
+      "endorsements_received": 3.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": 6.4,
+      "search_appearance_30d": 8.0,
+      "saved_by_recruiters_30d": 3.0,
+      "interview_completion_rate": 0.53,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.Tech in Artificial Intelligence from Tier-3 Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000022",
+    "name": "Shaurya Chatterjee",
+    "total_years_exp": 1.1,
+    "core_skills": [
+      "OpenCV",
+      "Django",
+      "Terraform",
+      "Scrum",
+      "SQL",
+      "Java",
+      "AWS",
+      "Six Sigma"
+    ],
+    "domains": [
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Mechanical Engineer",
+        "company": "Hooli",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 63.1,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 39.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.27,
+      "avg_response_time_hours": 30.2,
+      "connection_count": 538.0,
+      "endorsements_received": 21.0,
+      "notice_period_days": 150.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 136.0,
+      "saved_by_recruiters_30d": 5.0,
+      "interview_completion_rate": 0.45,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.E. in Information Technology from VJTI Mumbai"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000023",
+    "name": "Kavya Nair",
+    "total_years_exp": 3.7,
+    "core_skills": [
+      "BigQuery",
+      "Marketing",
+      "Node.js",
+      "Django",
+      "Salesforce CRM",
+      "MongoDB",
+      "ETL",
+      "Redis",
+      "Illustrator",
+      "Rust"
+    ],
+    "domains": [
+      "E-commerce",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Software Engineer",
+        "company": "Acme Corp",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "title": "Frontend Engineer",
+        "company": "Flipkart",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 50.7,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 10.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.57,
+      "avg_response_time_hours": 64.8,
+      "connection_count": 763.0,
+      "endorsements_received": 39.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 48.5,
+      "search_appearance_30d": 239.0,
+      "saved_by_recruiters_30d": 14.0,
+      "interview_completion_rate": 0.9,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Data Science from VJTI Mumbai"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000024",
+    "name": "Rajesh Arora",
+    "total_years_exp": 7.5,
+    "core_skills": [
+      "Figma",
+      "Kubernetes",
+      "Forecasting",
+      "ETL",
+      "Node.js",
+      "Docker"
+    ],
+    "domains": [
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "HR Manager",
+        "company": "TCS",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Accountant",
+        "company": "Infosys",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 63.7,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 71.0,
+      "applications_submitted_30d": 4.0,
+      "recruiter_response_rate": 0.78,
+      "avg_response_time_hours": 238.2,
+      "connection_count": 445.0,
+      "endorsements_received": 41.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": 46.3,
+      "search_appearance_30d": 84.0,
+      "saved_by_recruiters_30d": 7.0,
+      "interview_completion_rate": 0.72,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "Ph.D in Computer Science from Symbiosis International"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000025",
+    "name": "Anika Kumar",
+    "total_years_exp": 7.3,
+    "core_skills": [
+      "JavaScript",
+      "Spark",
+      "GCP",
+      "TypeScript",
+      "LangChain",
+      "Apache Flink",
+      "ETL",
+      "Redis",
+      "Data Pipelines"
+    ],
+    "domains": [
+      "Food Delivery",
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "Frontend Engineer",
+        "company": "Tech Mahindra",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      },
+      {
+        "title": "Frontend Engineer",
+        "company": "Mindtree",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      },
+      {
+        "title": "Frontend Engineer",
+        "company": "Zomato",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 70.7,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 107.0,
+      "applications_submitted_30d": 11.0,
+      "recruiter_response_rate": 0.74,
+      "avg_response_time_hours": 128.0,
+      "connection_count": 276.0,
+      "endorsements_received": 52.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 74.0,
+      "saved_by_recruiters_30d": 9.0,
+      "interview_completion_rate": 0.7,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "Ph.D in Mechanical Engineering from Regional Technical Institute"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000026",
+    "name": "Neha Rao",
+    "total_years_exp": 6.8,
+    "core_skills": [
+      "Apache Beam",
+      "Kubeflow",
+      "Scrum",
+      "ETL",
+      "Django",
+      "Docker",
+      "Airflow",
+      "Kubernetes"
+    ],
+    "domains": [
+      "Manufacturing",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Graphic Designer",
+        "company": "Initech",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Accountant",
+        "company": "Acme Corp",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      },
+      {
+        "title": "Project Manager",
+        "company": "Acme Corp",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 80.3,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 75.0,
+      "applications_submitted_30d": 7.0,
+      "recruiter_response_rate": 0.59,
+      "avg_response_time_hours": 45.4,
+      "connection_count": 321.0,
+      "endorsements_received": 8.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 154.0,
+      "saved_by_recruiters_30d": 11.0,
+      "interview_completion_rate": 0.49,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.Sc in Statistics from Generic State University",
+      "B.E. in Machine Learning from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000027",
+    "name": "Avni Pandey",
+    "total_years_exp": 3.9,
+    "core_skills": [
+      "Docker",
+      "YOLO",
+      "PEFT",
+      "Webpack",
+      "Data Science",
+      "AWS",
+      "Java",
+      "Angular",
+      "Databricks",
+      "ETL",
+      "Marketing",
+      "Information Retrieval",
+      "Weights & Biases",
+      "Terraform",
+      "SAP",
+      "Illustrator"
+    ],
+    "domains": [
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "DevOps Engineer",
+        "company": "Infosys",
+        "description": "Java backend development at a large enterprise \u2014 Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Wipro",
+        "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 31.0,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 89.0,
+      "applications_submitted_30d": 5.0,
+      "recruiter_response_rate": 0.58,
+      "avg_response_time_hours": 112.3,
+      "connection_count": 282.0,
+      "endorsements_received": 24.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 38.6,
+      "search_appearance_30d": 136.0,
+      "saved_by_recruiters_30d": 6.0,
+      "interview_completion_rate": 0.61,
+      "offer_acceptance_rate": 0.65,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "Ph.D in Information Technology from IIT Bombay",
+      "B.E. in Artificial Intelligence from VJTI Mumbai"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000028",
+    "name": "Rohan Krishnan",
+    "total_years_exp": 1.1,
+    "core_skills": [
+      "Snowflake",
+      "React",
+      "JavaScript",
+      "Tailwind",
+      "REST APIs",
+      "Photoshop",
+      "Data Pipelines",
+      "Terraform",
+      "CNN",
+      "Content Writing"
+    ],
+    "domains": [
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "Operations Manager",
+        "company": "Wipro",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 51.2,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 6.0,
+      "applications_submitted_30d": 7.0,
+      "recruiter_response_rate": 0.14,
+      "avg_response_time_hours": 13.2,
+      "connection_count": 524.0,
+      "endorsements_received": 1.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 68.0,
+      "saved_by_recruiters_30d": 4.0,
+      "interview_completion_rate": 0.86,
+      "offer_acceptance_rate": 0.49,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.Tech in Mathematics from Symbiosis International"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000029",
+    "name": "Priya Sethi",
+    "total_years_exp": 7.2,
+    "core_skills": [
+      "Node.js",
+      "Scrum",
+      "Tailwind",
+      "Hadoop",
+      "Spring Boot",
+      "CI/CD",
+      "gRPC",
+      "Terraform"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Business Analyst",
+        "company": "Wipro",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Globex Inc",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "TCS",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 40.5,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 51.0,
+      "applications_submitted_30d": 8.0,
+      "recruiter_response_rate": 0.12,
+      "avg_response_time_hours": 48.4,
+      "connection_count": 297.0,
+      "endorsements_received": 4.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 42.5,
+      "search_appearance_30d": 150.0,
+      "saved_by_recruiters_30d": 8.0,
+      "interview_completion_rate": 0.67,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.Tech in Artificial Intelligence from Symbiosis International"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000030",
+    "name": "Ritu Pillai",
+    "total_years_exp": 10.0,
+    "core_skills": [
+      "gRPC",
+      "Apache Beam",
+      "GraphQL",
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Six Sigma",
+      "Accounting",
+      "HTML"
+    ],
+    "domains": [
+      "Paper Products",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Marketing Manager",
+        "company": "Dunder Mifflin",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "Sales Executive",
+        "company": "Hooli",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Hooli",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 59.7,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 58.0,
+      "applications_submitted_30d": 0.0,
+      "recruiter_response_rate": 0.66,
+      "avg_response_time_hours": 131.1,
+      "connection_count": 552.0,
+      "endorsements_received": 45.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 21.7,
+      "search_appearance_30d": 54.0,
+      "saved_by_recruiters_30d": 1.0,
+      "interview_completion_rate": 0.73,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Computer Engineering from Generic State University",
+      "Ph.D in Artificial Intelligence from Generic State University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000031",
+    "name": "Ela Singh",
+    "total_years_exp": 6.0,
+    "core_skills": [
+      "Go",
+      "MLflow",
+      "FAISS",
+      "Pinecone",
+      "Angular",
+      "Image Classification",
+      "Machine Learning",
+      "Speech Recognition",
+      "BentoML",
+      "MLOps",
+      "Embeddings",
+      "Information Retrieval",
+      "Hugging Face Transformers",
+      "Feature Engineering",
+      "Sentence Transformers",
+      "scikit-learn",
+      "Marketing"
+    ],
+    "domains": [
+      "Transportation",
+      "AI/ML",
+      "Food Delivery"
+    ],
+    "past_roles": [
+      {
+        "title": "Recommendation Systems Engineer",
+        "company": "Swiggy",
+        "description": "Trained and shipped multiple ranking models for our product's discovery feed using XGBoost and LightGBM. Designed features across three families: content metadata, user behavior signals, and item engagement history. Owned the offline-online correlation analysis that determined which offline metrics actually predicted A/B test outcomes. Worked closely with PMs to define the optimization target (click-through vs. dwell time vs. downstream conversion) \u2014 that work was as important as the modeling itself."
+      },
+      {
+        "title": "Search Engineer",
+        "company": "Mad Street Den",
+        "description": "Trained and shipped multiple ranking models for our product's discovery feed using XGBoost and LightGBM. Designed features across three families: content metadata, user behavior signals, and item engagement history. Owned the offline-online correlation analysis that determined which offline metrics actually predicted A/B test outcomes. Worked closely with PMs to define the optimization target (click-through vs. dwell time vs. downstream conversion) \u2014 that work was as important as the modeling itself."
+      },
+      {
+        "title": "NLP Engineer",
+        "company": "Uber",
+        "description": "Trained and shipped multiple ranking models for our product's discovery feed using XGBoost and LightGBM. Designed features across three families: content metadata, user behavior signals, and item engagement history. Owned the offline-online correlation analysis that determined which offline metrics actually predicted A/B test outcomes. Worked closely with PMs to define the optimization target (click-through vs. dwell time vs. downstream conversion) \u2014 that work was as important as the modeling itself."
+      },
+      {
+        "title": "Applied ML Engineer",
+        "company": "Zomato",
+        "description": "Owned the ranking layer for an e-commerce search product, evolving it from a hand-tuned scoring function to a learning-to-rank model over 9 months. Designed the relevance labeling pipeline (mix of click-through data and explicit human judgments), the feature pipeline, and the training/eval workflow. Most of the work was infrastructure and data quality \u2014 the modeling part was almost the easy bit. Final model improved revenue-per-search by 12%."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 83.4,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 194.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.91,
+      "avg_response_time_hours": 76.1,
+      "connection_count": 832.0,
+      "endorsements_received": 177.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": 32.6,
+      "search_appearance_30d": 778.0,
+      "saved_by_recruiters_30d": 13.0,
+      "interview_completion_rate": 0.6,
+      "offer_acceptance_rate": 0.38,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.Tech in Computer Engineering from SRM University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000032",
+    "name": "Pranav Agarwal",
+    "total_years_exp": 8.1,
+    "core_skills": [
+      "Speech Recognition",
+      "Project Management",
+      "REST APIs",
+      "CSS",
+      "Embeddings",
+      "Hadoop",
+      "Spark",
+      "Python",
+      "Data Pipelines",
+      "OpenCV"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": ".NET Developer",
+        "company": "Cognizant",
+        "description": "Java backend development at a large enterprise \u2014 Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+      },
+      {
+        "title": "Cloud Engineer",
+        "company": "HCL",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "title": "Mobile Developer",
+        "company": "Globex Inc",
+        "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 35.4,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 80.0,
+      "applications_submitted_30d": 3.0,
+      "recruiter_response_rate": 0.69,
+      "avg_response_time_hours": 58.6,
+      "connection_count": 404.0,
+      "endorsements_received": 22.0,
+      "notice_period_days": 150.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 56.0,
+      "saved_by_recruiters_30d": 4.0,
+      "interview_completion_rate": 0.78,
+      "offer_acceptance_rate": 0.25,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.Sc in Machine Learning from VIT Chennai",
+      "Ph.D in Physics from Amity University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000033",
+    "name": "Shreya Nair",
+    "total_years_exp": 8.6,
+    "core_skills": [
+      "Kubernetes",
+      "Data Pipelines",
+      "Snowflake",
+      "CI/CD",
+      "SEO",
+      "ETL",
+      "Airflow",
+      "TypeScript",
+      "Content Writing",
+      "Spring Boot"
+    ],
+    "domains": [
+      "IT Services",
+      "Paper Products",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Graphic Designer",
+        "company": "Wipro",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Project Manager",
+        "company": "Dunder Mifflin",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Acme Corp",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 74.0,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 42.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.08,
+      "avg_response_time_hours": 210.9,
+      "connection_count": 410.0,
+      "endorsements_received": 29.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 38.3,
+      "search_appearance_30d": 98.0,
+      "saved_by_recruiters_30d": 2.0,
+      "interview_completion_rate": 0.37,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.S. in Computer Science from Tier-3 Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000034",
+    "name": "Yash Chatterjee",
+    "total_years_exp": 14.5,
+    "core_skills": [
+      "GraphQL",
+      "Excel",
+      "Node.js",
+      "Terraform",
+      "Salesforce CRM",
+      "Flask",
+      "React",
+      "Azure",
+      "Redux",
+      "Next.js"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Business Analyst",
+        "company": "Wipro",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Hooli",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Infosys",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Accountant",
+        "company": "TCS",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Accountant",
+        "company": "Hooli",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Pied Piper",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Stark Industries",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 41.2,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 25.0,
+      "applications_submitted_30d": 7.0,
+      "recruiter_response_rate": 0.15,
+      "avg_response_time_hours": 253.5,
+      "connection_count": 226.0,
+      "endorsements_received": 27.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 143.0,
+      "saved_by_recruiters_30d": 2.0,
+      "interview_completion_rate": 0.41,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Computer Engineering from Tier-3 Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000035",
+    "name": "Vikram Verma",
+    "total_years_exp": 4.3,
+    "core_skills": [
+      "Snowflake",
+      "BigQuery",
+      "Recommendation Systems",
+      "Data Pipelines",
+      "Docker",
+      "MongoDB",
+      "PostgreSQL",
+      "Sales",
+      "Kafka",
+      "Speech Recognition",
+      "BentoML",
+      "Go",
+      "Next.js",
+      "dbt"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Globex Inc",
+        "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Wipro",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 56.2,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 7.0,
+      "applications_submitted_30d": 4.0,
+      "recruiter_response_rate": 0.34,
+      "avg_response_time_hours": 178.0,
+      "connection_count": 398.0,
+      "endorsements_received": 45.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 173.0,
+      "saved_by_recruiters_30d": 1.0,
+      "interview_completion_rate": 0.5,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Civil Engineering from Generic State University",
+      "M.S. in Data Science from Bharati Vidyapeeth"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000036",
+    "name": "Ananya Bose",
+    "total_years_exp": 11.3,
+    "core_skills": [
+      "Figma",
+      "MongoDB",
+      "PowerPoint",
+      "CSS",
+      "Excel",
+      "GraphQL",
+      "Object Detection",
+      "Vue.js",
+      "Sales"
+    ],
+    "domains": [
+      "IT Services",
+      "Conglomerate",
+      "Paper Products",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Project Manager",
+        "company": "Initech",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Hooli",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "HR Manager",
+        "company": "Dunder Mifflin",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "TCS",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Wayne Enterprises",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 81.8,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 70.0,
+      "applications_submitted_30d": 4.0,
+      "recruiter_response_rate": 0.4,
+      "avg_response_time_hours": 236.6,
+      "connection_count": 324.0,
+      "endorsements_received": 3.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 175.0,
+      "saved_by_recruiters_30d": 0.0,
+      "interview_completion_rate": 0.78,
+      "offer_acceptance_rate": 0.46,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.S. in Commerce from KIIT University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000037",
+    "name": "Ved Sen",
+    "total_years_exp": 14.3,
+    "core_skills": [
+      "Databricks",
+      "Docker",
+      "Flask",
+      "AWS",
+      "Terraform",
+      "Tally",
+      "TTS",
+      "Apache Beam"
+    ],
+    "domains": [
+      "Software",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Business Analyst",
+        "company": "Stark Industries",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Initech",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Stark Industries",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Hooli",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "HR Manager",
+        "company": "Acme Corp",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 25.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 80.0,
+      "applications_submitted_30d": 6.0,
+      "recruiter_response_rate": 0.78,
+      "avg_response_time_hours": 107.1,
+      "connection_count": 503.0,
+      "endorsements_received": 13.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 178.0,
+      "saved_by_recruiters_30d": 1.0,
+      "interview_completion_rate": 0.82,
+      "offer_acceptance_rate": 0.19,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.Tech in Machine Learning from Tier-3 Engineering College",
+      "M.Tech in Statistics from Lovely Professional University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000038",
+    "name": "Myra Trivedi",
+    "total_years_exp": 6.7,
+    "core_skills": [
+      "Kubeflow",
+      "Django",
+      "Redux",
+      "Weaviate",
+      "PowerPoint",
+      "Figma",
+      "Docker",
+      "GraphQL",
+      "Agile",
+      "MLOps",
+      "Azure"
+    ],
+    "domains": [
+      "Software",
+      "Food Delivery",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Java Developer",
+        "company": "Swiggy",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      },
+      {
+        "title": ".NET Developer",
+        "company": "Globex Inc",
+        "description": "Java backend development at a large enterprise \u2014 Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Hooli",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 35.8,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 102.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.2,
+      "avg_response_time_hours": 61.0,
+      "connection_count": 316.0,
+      "endorsements_received": 51.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": 37.8,
+      "search_appearance_30d": 300.0,
+      "saved_by_recruiters_30d": 18.0,
+      "interview_completion_rate": 0.75,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Sc in Computer Engineering from VIT Chennai"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000039",
+    "name": "Sai Saxena",
+    "total_years_exp": 3.9,
+    "core_skills": [
+      "Spark",
+      "Tailwind",
+      "Sales",
+      "CI/CD",
+      "Illustrator",
+      "Hadoop",
+      "Microservices",
+      "REST APIs",
+      "AWS"
+    ],
+    "domains": [
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Marketing Manager",
+        "company": "Acme Corp",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Stark Industries",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 28.3,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 22.0,
+      "applications_submitted_30d": 0.0,
+      "recruiter_response_rate": 0.52,
+      "avg_response_time_hours": 40.1,
+      "connection_count": 102.0,
+      "endorsements_received": 9.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 146.0,
+      "saved_by_recruiters_30d": 6.0,
+      "interview_completion_rate": 0.74,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "B.Tech in Electrical Engineering from Chandigarh University",
+      "M.E. in Artificial Intelligence from Chandigarh University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000040",
+    "name": "Dev Vora",
+    "total_years_exp": 1.6,
+    "core_skills": [
+      "SQL",
+      "Spring Boot",
+      "Accounting",
+      "Rust",
+      "Redux",
+      "SAP",
+      "Weights & Biases",
+      "REST APIs",
+      "Spark"
+    ],
+    "domains": [
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Customer Support",
+        "company": "Globex Inc",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 39.5,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 52.0,
+      "applications_submitted_30d": 6.0,
+      "recruiter_response_rate": 0.46,
+      "avg_response_time_hours": 268.3,
+      "connection_count": 176.0,
+      "endorsements_received": 35.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 95.0,
+      "saved_by_recruiters_30d": 1.0,
+      "interview_completion_rate": 0.8,
+      "offer_acceptance_rate": 0.44,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Tech in MBA from Local Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000041",
+    "name": "Anjali Khanna",
+    "total_years_exp": 13.7,
+    "core_skills": [
+      "Airflow",
+      "SQL",
+      "Go",
+      "GCP",
+      "Figma",
+      "React",
+      "Webpack",
+      "Kubernetes",
+      "Angular"
+    ],
+    "domains": [
+      "Conglomerate",
+      "Manufacturing",
+      "IT Services",
+      "Paper Products",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Operations Manager",
+        "company": "Hooli",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Acme Corp",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Wayne Enterprises",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Infosys",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Mechanical Engineer",
+        "company": "Dunder Mifflin",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 75.9,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 3.0,
+      "applications_submitted_30d": 9.0,
+      "recruiter_response_rate": 0.07,
+      "avg_response_time_hours": 135.3,
+      "connection_count": 143.0,
+      "endorsements_received": 19.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 150.0,
+      "saved_by_recruiters_30d": 6.0,
+      "interview_completion_rate": 0.85,
+      "offer_acceptance_rate": 0.16,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.S. in Machine Learning from Local Engineering College"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000042",
+    "name": "Riya Mukherjee",
+    "total_years_exp": 5.0,
+    "core_skills": [
+      "Project Management",
+      "gRPC",
+      "Marketing",
+      "SAP",
+      "Illustrator",
+      "Node.js",
+      "YOLO",
+      "Tailwind",
+      "CSS",
+      "Figma"
+    ],
+    "domains": [
+      "IT Services",
+      "Conglomerate"
+    ],
+    "past_roles": [
+      {
+        "title": "HR Manager",
+        "company": "Wayne Enterprises",
+        "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics \u2014 including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Wipro",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "title": "Customer Support",
+        "company": "Infosys",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 58.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 57.0,
+      "applications_submitted_30d": 8.0,
+      "recruiter_response_rate": 0.58,
+      "avg_response_time_hours": 24.8,
+      "connection_count": 591.0,
+      "endorsements_received": 29.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 34.0,
+      "saved_by_recruiters_30d": 9.0,
+      "interview_completion_rate": 0.35,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Tech in Civil Engineering from SRM Chennai",
+      "B.E. in Mathematics from Symbiosis International"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000043",
+    "name": "Aarav Sen",
+    "total_years_exp": 8.3,
+    "core_skills": [
+      "Elasticsearch",
+      "OpenSearch",
+      "Airflow",
+      "Kubeflow",
+      "Fine-tuning LLMs",
+      "Haystack",
+      "OpenCV",
+      "TensorFlow",
+      "PEFT",
+      "LangChain",
+      "Weights & Biases",
+      "Reinforcement Learning",
+      "Deep Learning",
+      "Image Classification",
+      "Node.js",
+      "Project Management",
+      "Feature Engineering"
+    ],
+    "domains": [
+      "Food Delivery",
+      "IT Services",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Cloud Engineer",
+        "company": "Swiggy",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "title": ".NET Developer",
+        "company": "HCL",
+        "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+      },
+      {
+        "title": "Frontend Engineer",
+        "company": "Mindtree",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Initech",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 57.0,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 38.0,
+      "applications_submitted_30d": 8.0,
+      "recruiter_response_rate": 0.04,
+      "avg_response_time_hours": 223.5,
+      "connection_count": 102.0,
+      "endorsements_received": 39.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 167.0,
+      "saved_by_recruiters_30d": 2.0,
+      "interview_completion_rate": 0.72,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.E. in Electronics from Regional Technical Institute",
+      "B.Sc in Physics from Regional Technical Institute"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000044",
+    "name": "Vihaan Naidu",
+    "total_years_exp": 5.7,
+    "core_skills": [
+      "Hadoop",
+      "JavaScript",
+      "Databricks",
+      "Python",
+      "dbt",
+      "CI/CD"
+    ],
+    "domains": [
+      "IT Services",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Frontend Engineer",
+        "company": "Tech Mahindra",
+        "description": "Java backend development at a large enterprise \u2014 Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Hooli",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 30.6,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 78.0,
+      "applications_submitted_30d": 7.0,
+      "recruiter_response_rate": 0.66,
+      "avg_response_time_hours": 179.1,
+      "connection_count": 58.0,
+      "endorsements_received": 38.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 6.5,
+      "search_appearance_30d": 288.0,
+      "saved_by_recruiters_30d": 18.0,
+      "interview_completion_rate": 0.66,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "M.Sc in Information Technology from Chandigarh University",
+      "B.E. in Civil Engineering from Amity University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000045",
+    "name": "Vikram Mittal",
+    "total_years_exp": 12.2,
+    "core_skills": [
+      "GCP",
+      "Sales",
+      "Redux",
+      "PostgreSQL",
+      "Airflow",
+      "SAP"
+    ],
+    "domains": [
+      "IT Services",
+      "Conglomerate",
+      "Manufacturing",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Project Manager",
+        "company": "Initech",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Pied Piper",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Infosys",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Wayne Enterprises",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "TCS",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "Wayne Enterprises",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "title": "Operations Manager",
+        "company": "Stark Industries",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 25.4,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 37.0,
+      "applications_submitted_30d": 0.0,
+      "recruiter_response_rate": 0.62,
+      "avg_response_time_hours": 20.8,
+      "connection_count": 490.0,
+      "endorsements_received": 2.0,
+      "notice_period_days": 60.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 23.0,
+      "saved_by_recruiters_30d": 6.0,
+      "interview_completion_rate": 0.33,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.E. in Statistics from Generic State University",
+      "B.Tech in Machine Learning from KIIT University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000046",
+    "name": "Dev Nair",
+    "total_years_exp": 7.8,
+    "core_skills": [
+      "Agile",
+      "Scrum",
+      "SAP",
+      "React",
+      "Azure",
+      "ETL"
+    ],
+    "domains": [
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Mechanical Engineer",
+        "company": "Hooli",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "title": "HR Manager",
+        "company": "Pied Piper",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "Hooli",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 74.8,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 80.0,
+      "applications_submitted_30d": 6.0,
+      "recruiter_response_rate": 0.41,
+      "avg_response_time_hours": 209.8,
+      "connection_count": 301.0,
+      "endorsements_received": 29.0,
+      "notice_period_days": 30.0,
+      "willing_to_relocate": 1.0,
+      "github_activity_score": 20.9,
+      "search_appearance_30d": 166.0,
+      "saved_by_recruiters_30d": 7.0,
+      "interview_completion_rate": 0.4,
+      "offer_acceptance_rate": 0.34,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.Tech in Electrical Engineering from Christ University",
+      "B.E. in Statistics from Chandigarh University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000047",
+    "name": "Avni Bansal",
+    "total_years_exp": 2.4,
+    "core_skills": [
+      "FastAPI",
+      "Java",
+      "Excel",
+      "Tally",
+      "SQL",
+      "Scrum",
+      "Hadoop"
+    ],
+    "domains": [
+      "IT Services"
+    ],
+    "past_roles": [
+      {
+        "title": "Project Manager",
+        "company": "TCS",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 79.7,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 34.0,
+      "applications_submitted_30d": 5.0,
+      "recruiter_response_rate": 0.39,
+      "avg_response_time_hours": 109.1,
+      "connection_count": 444.0,
+      "endorsements_received": 48.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 14.0,
+      "saved_by_recruiters_30d": 4.0,
+      "interview_completion_rate": 0.54,
+      "offer_acceptance_rate": 0.21,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.Sc in Mechanical Engineering from Amity University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000048",
+    "name": "Vihaan Saxena",
+    "total_years_exp": 9.7,
+    "core_skills": [
+      "Hadoop",
+      "Terraform",
+      "Vue.js",
+      "Content Writing",
+      "AWS"
+    ],
+    "domains": [
+      "Software",
+      "IT Services",
+      "Fintech",
+      "Manufacturing"
+    ],
+    "past_roles": [
+      {
+        "title": "Mobile Developer",
+        "company": "CRED",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "Cognizant",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      },
+      {
+        "title": "Mobile Developer",
+        "company": "Stark Industries",
+        "description": "Java backend development at a large enterprise \u2014 Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "Initech",
+        "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 62.2,
+      "open_to_work_flag": 1.0,
+      "profile_views_received_30d": 58.0,
+      "applications_submitted_30d": 3.0,
+      "recruiter_response_rate": 0.65,
+      "avg_response_time_hours": 97.9,
+      "connection_count": 225.0,
+      "endorsements_received": 48.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 131.0,
+      "saved_by_recruiters_30d": 5.0,
+      "interview_completion_rate": 0.42,
+      "offer_acceptance_rate": 0.4,
+      "verified_email": 0.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "B.E. in Data Science from VIT Chennai",
+      "B.Tech in Statistics from Anna University"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000049",
+    "name": "Tanya Chowdary",
+    "total_years_exp": 11.8,
+    "core_skills": [
+      "TypeScript",
+      "Rust",
+      "Data Pipelines",
+      "Apache Beam",
+      "GraphQL",
+      "Kubernetes"
+    ],
+    "domains": [
+      "Software",
+      "Conglomerate"
+    ],
+    "past_roles": [
+      {
+        "title": "Mechanical Engineer",
+        "company": "Wayne Enterprises",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Hooli",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "Sales Executive",
+        "company": "Wayne Enterprises",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 64.0,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 6.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.59,
+      "avg_response_time_hours": 109.3,
+      "connection_count": 514.0,
+      "endorsements_received": 12.0,
+      "notice_period_days": 120.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": -1.0,
+      "search_appearance_30d": 100.0,
+      "saved_by_recruiters_30d": 6.0,
+      "interview_completion_rate": 0.56,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 0.0,
+      "linkedin_connected": 1.0
+    },
+    "education": [
+      "M.Tech in Mathematics from Symbiosis International"
+    ]
+  },
+  {
+    "candidate_id": "CAND_0000050",
+    "name": "Naina Bose",
+    "total_years_exp": 13.5,
+    "core_skills": [
+      "gRPC",
+      "SEO",
+      "Feature Engineering",
+      "Marketing",
+      "Data Pipelines",
+      "Kafka",
+      "Excel"
+    ],
+    "domains": [
+      "IT Services",
+      "Manufacturing",
+      "Software"
+    ],
+    "past_roles": [
+      {
+        "title": "Business Analyst",
+        "company": "Infosys",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "TCS",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      },
+      {
+        "title": "HR Manager",
+        "company": "Hooli",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "title": "Content Writer",
+        "company": "Acme Corp",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      }
+    ],
+    "notable_projects": [],
+    "platform_signals": {
+      "profile_completeness_score": 42.5,
+      "open_to_work_flag": 0.0,
+      "profile_views_received_30d": 34.0,
+      "applications_submitted_30d": 2.0,
+      "recruiter_response_rate": 0.42,
+      "avg_response_time_hours": 108.7,
+      "connection_count": 245.0,
+      "endorsements_received": 22.0,
+      "notice_period_days": 90.0,
+      "willing_to_relocate": 0.0,
+      "github_activity_score": 44.7,
+      "search_appearance_30d": 87.0,
+      "saved_by_recruiters_30d": 2.0,
+      "interview_completion_rate": 0.58,
+      "offer_acceptance_rate": -1.0,
+      "verified_email": 1.0,
+      "verified_phone": 1.0,
+      "linkedin_connected": 0.0
+    },
+    "education": [
+      "Ph.D in Artificial Intelligence from VIT Chennai",
+      "B.Sc in Artificial Intelligence from Georgia Tech"
+    ]
+  }
+]

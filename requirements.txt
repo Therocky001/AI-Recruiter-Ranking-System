@@ -1,0 +1,9 @@
+streamlit
+pydantic
+sentence-transformers
+google-genai
+pandas
+scikit-learn
+numpy
+python-dotenv
+aiohttp
